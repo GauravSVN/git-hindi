@@ -1,2 +1,5 @@
 this is file one.
-this is the another line or folder to be commited.
+this is the another line or folder to be commited
+this is the another line or folder to be commited
+this is the another line or folder to be commited
+this is the another line or folder to be commited
